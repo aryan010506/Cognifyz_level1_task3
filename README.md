@@ -27,7 +27,7 @@ Python 3.x
 No external libraries required (uses built-in modules)
 
 📸 GUI Preview
-
+![Image](https://github.com/user-attachments/assets/88993da5-36ad-48bd-96f5-97f998467ead)
 
 🔧 Ideal For:
 Beginners learning Python and GUI development
